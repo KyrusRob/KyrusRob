@@ -2,7 +2,7 @@
 Welcome to my GitHub profile!
 
 ## About Me 🌟
-I'm Kyrus Robinson, a 25-year-old data enthusiast and a dedicated dad of two. I immerse myself in tech projects. I thrive on challenges, constantly seeking to expand my skills and make meaningful contributions. My journey in tech is fueled by a passion for data, a love for exploring new places, and an appreciation for good food. I aim to make a positive impact through my work, while always learning and growing along the way.
+I'm Kyrus Robinson, a data enthusiast and a dedicated dad of two. I immerse myself in tech projects. I thrive on challenges, constantly seeking to expand my skills and make meaningful contributions. My journey in tech is fueled by a passion for data, a love for exploring new places, and an appreciation for good food. I aim to make a positive impact through my work, while always learning and growing along the way.
 
 ## My Tech Stack 💻
 I'm currently focused on **Data Engineering**, using the following tools:
