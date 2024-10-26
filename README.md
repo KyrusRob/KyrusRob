@@ -7,6 +7,7 @@ I'm Kyrus Robinson, a data enthusiast and a dedicated dad of two. I immerse myse
 ## My Tech Stack 💻
 I'm currently focused on **Data Engineering**, using the following tools:
 
+<!-- GitHub stats from https://github.com/ileriayo/markdown-badges?tab=readme-ov-file#table-of-contents -->
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
