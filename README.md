@@ -19,3 +19,6 @@ My main project right now involves building an **F1 Data Pipeline** that leverag
 - **World Explorer**: I love to travel whenever I get the chance—each trip is an opportunity to learn, unwind, and try local foods.
 ## Let's Connect! 🤝
 Feel free to reach out if you want to talk about data engineering, share parenting tips, or exchange travel stories!
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Kyrus' GitHub stats](https://github-readme-stats.vercel.app/api?username=KyrusRob&show_icons=true&theme=gruvbox )](https://github.com/KyrusRob/github-readme-stats)
